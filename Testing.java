@@ -1,6 +1,6 @@
 public class Testing {
 
     public static void main(String[] args) {
-        System.out.println("New Testing.java");
+        System.out.println("New Testing.java part 2");
     }
 }
